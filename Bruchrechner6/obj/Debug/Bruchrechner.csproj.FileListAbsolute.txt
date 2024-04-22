@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\BW_Akhmed_Osmayev_1WA\Bruchrechner\bin\Debug\Bruchrechner.exe.config
+C:\Users\Student\source\repos\BW_Akhmed_Osmayev_1WA\Bruchrechner\bin\Debug\Bruchrechner.exe
+C:\Users\Student\source\repos\BW_Akhmed_Osmayev_1WA\Bruchrechner\bin\Debug\Bruchrechner.pdb
+C:\Users\Student\source\repos\BW_Akhmed_Osmayev_1WA\Bruchrechner\obj\Debug\Bruchrechner.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\BW_Akhmed_Osmayev_1WA\Bruchrechner\obj\Debug\Bruchrechner.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\BW_Akhmed_Osmayev_1WA\Bruchrechner\obj\Debug\Bruchrechner.exe
+C:\Users\Student\source\repos\BW_Akhmed_Osmayev_1WA\Bruchrechner\obj\Debug\Bruchrechner.pdb
